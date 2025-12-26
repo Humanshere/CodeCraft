@@ -15,6 +15,7 @@
 | Mohan Kumar             | aricthecoder         | IIIT Allahabad                 |
 | Rushal Verma            | Rushalverma          | IIIT allahabad                 |
 | Avaneesh Verma          | avaneeshk2307-wq     | IIIT Allahabad                 |
+| Aditi Guin              | GuinAditi            | KIIT                            |
 | Saurav Gitte            | SauravGitte          | IIIT Allahabad                 |
 | Sourish Awasthi         | LooninS              | IIIT Allahabad                 |
 | Saumya Sood             | Marcella2706         | IIIT Allahabad                 |

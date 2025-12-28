@@ -6,6 +6,8 @@ Calculate the sum of the elements of nums between indices left and right inclusi
 Time: O(1) - for queries
 Space: O(n)
 
+Link: https://leetcode.com/problems/range-sum-query-immutable/submissions/1866570409/
+
 */
 
 #include <bits/stdc++.h>
